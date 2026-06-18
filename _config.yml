@@ -62,7 +62,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: Ov23lihPCAkJFscvOy9r                            #生成的clientID
   clientSecret: cf4360c65907c2d6892a5eb385704399063d8d17    #生成的clientSecret
   repo: feiwen8772.github.io    #仓库名称
