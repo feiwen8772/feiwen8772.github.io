@@ -13,7 +13,7 @@ github_repo: "https://github.com/feiwen8772/feiwen8772.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -63,11 +63,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: Ov23lihPCAkJFscvOy9r                            #生成的clientID
+  clientSecret: cf4360c65907c2d6892a5eb385704399063d8d17    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  owner: feiwen8772    #github用户名
+  admin: feiwen8772
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -87,7 +87,7 @@ ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
